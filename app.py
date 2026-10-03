@@ -94,7 +94,7 @@ st.write(
 
 st.dataframe(
     df,
-    use_width=True
+    use_container_width=True
 )
 
 # --------------------------------------------------
@@ -217,7 +217,7 @@ st.dataframe(
             "Predicted_Water_Demand_L"
         ]
     ],
-    use_width=True
+    use_container_width=True
 )
 
 # --------------------------------------------------
